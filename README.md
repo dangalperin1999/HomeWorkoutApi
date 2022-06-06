@@ -1,2 +1,2 @@
 # HomeWorkoutApi
-open the solution and run the code
+open HomeWorkout.sln and run the code
